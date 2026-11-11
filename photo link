@@ -1,8 +1,0 @@
-
-<html>    
-    <head> ></head>
-    <body background="images/wallpaper.png">
-    <a href="lesson1.html">Press the link to lesson1</a>
-    <img src="wallpaper.png" alt="My Photo">
-</body>
-</html>
